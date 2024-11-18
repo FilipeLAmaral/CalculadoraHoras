@@ -1,0 +1,43 @@
+body{
+  background-image: linear-gradient(to bottom,  rgb(5, 255, 242), rgb(0, 0, 0) ) ;
+  height: 110vh;
+  font-family: 'Bebas Neue'
+  
+  
+}
+h1{
+text-align: center;
+
+
+}
+.zeca{
+border-radius: 15px;
+text-align: center;
+background-color:  rgb(14, 128, 235);
+width: fit-content;
+position: absolute;
+top: 20%;
+left:34%
+
+}
+
+input{
+
+ border-radius: 10px;
+ height: 30px;
+ text-align: center;
+
+}
+button{
+
+ border-radius: 15px;
+ width: 100px;
+ height: 30px;
+ background-color: rgb(226, 43, 165);
+
+
+}
+button:hover{
+
+  background-color: rgb(0, 188, 212);
+}
